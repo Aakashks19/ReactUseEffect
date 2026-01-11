@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+}
+.list{
+    margin: 10px;
+    width: 400px;
+    padding: 5px;
+}
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 12px;
+    padding: 5px ;
+    height: 30px;
+}
